@@ -1,8 +1,8 @@
 {
-  "name": "MWeather",
-  "short_name": "MWeather",
-  "description": "MWeather",
-  "start_url": "/",
+  "name": "MW",
+  "short_name": "MW",
+  "description": "MW",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#1E1E1E",
