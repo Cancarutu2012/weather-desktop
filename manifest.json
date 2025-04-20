@@ -1,0 +1,24 @@
+{
+  "name": "MWeather",
+  "short_name": "MWeather",
+  "description": "MWeather",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1E1E1E",
+  "icons": [
+    {
+      "src": "icons/A.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/B.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/",
+  "orientation": "portrait",
+  "lang": "hu"
+}
